@@ -12,6 +12,9 @@ typedef struct node {
 
 typedef node *NODEPTR;
 
+// zeplin00: Adding a dummy comment
+//
+
 NODEPTR bst_min(NODEPTR root)
 {
   if (!root) return root;
