@@ -4,6 +4,12 @@
 
 using namespace std;
 
+// Dummy comment
+//
+
+// Another dummy comment
+//
+
 int main()
 {
 
